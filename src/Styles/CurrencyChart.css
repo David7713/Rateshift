@@ -1,0 +1,22 @@
+.chart-container {
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center; 
+  }
+
+  /* MEDIA QUERIES ==========> */
+  
+  @media (max-width: 768px) {
+    .chart-container {
+      height: 300px; 
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .chart-container {
+      height: 200px; 
+    }
+  }
+  

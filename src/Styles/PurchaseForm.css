@@ -1,0 +1,72 @@
+.purchase-form-container {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: auto;
+}
+
+.purchase-form-container p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.purchase-form-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.purchase-form-container input[type="text"],
+.purchase-form-container input[type="number"] {
+  width: calc(100% - 10px);
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.purchase-form-container input[type="text"]:read-only,
+.purchase-form-container input[type="number"]:read-only {
+  background-color: #f0f0f0;
+}
+
+.purchase-form-container button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.purchase-form-container button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+.purchase-form-container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.purchase-form-container th,
+.purchase-form-container td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+
+.purchase-form-container th {
+  background-color: #f2f2f2;
+}
+
+.unfuilfiled-purchase-transactions {
+  max-height: 200px;
+  overflow: auto;
+}
