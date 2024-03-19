@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rateshift/static/css/main.3d5adb83.css",
+    "main.js": "/Rateshift/static/js/main.4cd02e40.js",
+    "index.html": "/Rateshift/index.html",
+    "main.3d5adb83.css.map": "/Rateshift/static/css/main.3d5adb83.css.map",
+    "main.4cd02e40.js.map": "/Rateshift/static/js/main.4cd02e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d5adb83.css",
+    "static/js/main.4cd02e40.js"
+  ]
+}
