@@ -25,8 +25,8 @@ Introducing our Currency Exchange Platform – your go-to solution for fast and 
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/David7713/Weather-App.git
-  cd weather-app
+  git clone https://github.com/David7713/Rateshift.git
+  cd rateshift
   npm install
   npm start
 
@@ -34,11 +34,11 @@ Install my-project with npm
 
 
 ## Feedback and Questions
-Thank you for using our Weather App with Forecast! We're delighted to have you on board. Your interest in our app means the world to us, and your feedback is invaluable as we continue to improve and enhance the user experience.
+Thank you for choosing our Currency Exchange Platform! We're thrilled to have you as part of our community. Your support and trust mean everything to us, and we're committed to providing you with the best currency exchange experience possible.
 
-If you have any questions, suggestions, or if there's anything specific you would like to know about the weather in your area or any location around the world, please don't hesitate to reach out. We're here to assist you in every step of your weather-related queries.
+If you have any questions about currency exchange rates, transactions, or anything else related to currencies, don't hesitate to reach out. Our team is here to assist you with any queries you may have. Whether it's about current exchange rates, transaction procedures, or anything else currency-related, we're here to support you.
 
 📧 Email: davo00771339@gmail.com
 
-Happy exploring and best wishes for your weather-related plans! 🌍☀️🌧️
+Happy Currency Exchanging!
 
