@@ -1,7 +1,7 @@
 
-# Weather App with Forecast
+# Fast and efficient currency exchange platform.
 
-Our Weather App is a user-friendly web application that provides real-time weather information and forecasts for locations around the world. With a sleek and intuitive interface, users can quickly check the current weather conditions, temperature, humidity, wind speed, and other essential weather data for any city or location they're interested in.
+Introducing our Currency Exchange Platform – your go-to solution for fast and efficient currency conversions. Our user-friendly web application offers a streamlined interface designed to provide you with instant access to up-to-date exchange rates and seamless transactions.
 
 
 
