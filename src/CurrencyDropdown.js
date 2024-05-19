@@ -35,7 +35,7 @@ const CurrencyDropdown = () => {
   return (
    
     <div className='currency-select-main-part'>
-      <p>RateShift-Обмен валюты</p>
+      <p className='header-part'>RateShift-Обмен валюты</p>
       <div className='currency-select-part'>
       <Select
       className='currency-select'

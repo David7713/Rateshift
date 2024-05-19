@@ -29,3 +29,15 @@
     border: 1px solid rgb(212, 209, 209);
     color: black;
 }
+.header-part{
+    background-color:rgb(0, 123, 255);
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    margin-bottom: 2rem;
+    color:white;
+    font-size: 20px;
+
+}
