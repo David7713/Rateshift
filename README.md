@@ -20,6 +20,7 @@ Introducing our Currency Exchange Platform – your go-to solution for fast and 
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 
 
+
 ## Installation
 
 Install my-project with npm
@@ -31,6 +32,16 @@ Install my-project with npm
   npm start
 
 ```
+
+
+
+
+## Screenshots
+   ## Tablet Version
+![App Screenshot](https://github.com/David7713/Rateshift/blob/main/src/Screenshots/Tablet%20Version.png?raw=true)
+
+   ## Mobile Version
+![App Screenshot](https://github.com/David7713/Rateshift/blob/main/src/Screenshots/Mobile%20Version.png?raw=true)
 
 
 ## Feedback and Questions
