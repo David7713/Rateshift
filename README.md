@@ -6,7 +6,7 @@ Introducing our Currency Exchange Platform – your go-to solution for fast and 
 
 
    ##
-![App Screenshot](https://github.com/David7713/Weather-App/blob/main/src/Screenshots/Main.png?raw=true)
+![App Screenshot](https://github.com/David7713/Rateshift/blob/main/src/Screenshots/RateShift-Screenshot.png?raw=true)
 
 
 ## Front End
